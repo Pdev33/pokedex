@@ -3,7 +3,7 @@ import PokemonCard from "./components/PokemonCard";
 
 function App() {
   return (
- <div> <PokemonCard> feur </PokemonCard> </div>
+ <div> <PokemonCard></PokemonCard> </div>
   );
 
 
